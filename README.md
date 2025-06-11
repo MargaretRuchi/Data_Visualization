@@ -67,6 +67,7 @@ viz_gender_distribution.png
 viz_survival_class_gender.png
 viz_pairplot.png
 README.md
+
 🔗 Follow My Data Science Journey **[MgTechInsights](https://mgtechinsights.framer.website)** 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/margaretmary-ajuruchi )
 📧 Contact me for freelance data projects or portfolio reviews
